@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/build",
+  "command": "/usr/bin/c89-gcc  -I/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/include  -g   -o CMakeFiles/demo5.dir/src/common.c.o   -c /home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/common.c",
+  "file": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/common.c"
+},
+{
+  "directory": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/build",
+  "command": "/usr/bin/c89-gcc  -I/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/include  -g   -o CMakeFiles/demo5.dir/src/complier.c.o   -c /home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/complier.c",
+  "file": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/complier.c"
+},
+{
+  "directory": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/build",
+  "command": "/usr/bin/c89-gcc  -I/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/include  -g   -o CMakeFiles/demo5.dir/src/vm.c.o   -c /home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/vm.c",
+  "file": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/vm.c"
+},
+{
+  "directory": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/build",
+  "command": "/usr/bin/c89-gcc  -I/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/include  -g   -o CMakeFiles/demo5.dir/src/data.c.o   -c /home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/data.c",
+  "file": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/data.c"
+},
+{
+  "directory": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/build",
+  "command": "/usr/bin/c89-gcc  -I/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/include  -g   -o CMakeFiles/demo5.dir/src/main.c.o   -c /home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/main.c",
+  "file": "/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo5/src/main.c"
+}
+]

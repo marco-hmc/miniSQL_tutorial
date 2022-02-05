@@ -1,0 +1,1 @@
+/usr/bin/clang    CMakeFiles/demo6.dir/src/bplustree.c.o CMakeFiles/demo6.dir/src/common.c.o CMakeFiles/demo6.dir/src/complier.c.o CMakeFiles/demo6.dir/src/vm.c.o CMakeFiles/demo6.dir/src/data.c.o CMakeFiles/demo6.dir/src/main.c.o  -o demo6 

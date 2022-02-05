@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marco/文档/codeRepo/project/SQL/latestDB/demo0/db.c
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+

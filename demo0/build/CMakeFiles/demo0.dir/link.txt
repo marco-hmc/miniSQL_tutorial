@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/demo0.dir/db.c.o  -o demo0 

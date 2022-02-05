@@ -1,0 +1,3 @@
+/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo1/build/CMakeFiles/rebuild_cache.dir
+/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo1/build/CMakeFiles/edit_cache.dir
+/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo1/build/CMakeFiles/demo1.dir

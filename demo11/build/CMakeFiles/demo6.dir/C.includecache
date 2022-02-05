@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bplustree.h
+common.h
+../include/common.h
+data.h
+../include/data.h
+
+../include/common.h
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+stdint.h
+-
+errno.h
+-
+unistd.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+
+../include/data.h
+common.h
+../include/common.h
+
+/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo11/src/bplustree.c
+common.h
+/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo11/src/common.h
+bplustree.h
+/home/marco/文档/我的坚果云/bugHome/github/miniDB_tutorial/demo11/src/bplustree.h
+

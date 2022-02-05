@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/demo2.dir/src/common.c.o CMakeFiles/demo2.dir/src/complier.c.o CMakeFiles/demo2.dir/src/vm.c.o CMakeFiles/demo2.dir/src/main.c.o  -o demo2 
